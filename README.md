@@ -1,6 +1,6 @@
 # AKGate
 
-akshare REST API 网关 - 将 akshare 金融数据库的功能通过 REST API 暴露出去。
+akshare REST API 网关 - 将 akshare 金融数据库的功能通过 REST API 暴露出去。开发规范和提交规范见 [AGENTS.md](AGENTS.md)。
 
 ## 功能特性
 
