@@ -34,7 +34,7 @@ gunicorn -c gunicorn.conf.py 'app:create_app()'
 docker compose up -d
 
 # 或直接运行
-docker run -p 5000:5000 qiujun8023/akgate
+docker run -p 5000:5000 ghcr.io/qiujun8023/akgate
 ```
 
 ## API 使用

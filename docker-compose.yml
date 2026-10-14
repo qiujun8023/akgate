@@ -1,6 +1,6 @@
 services:
   akgate:
-    image: qiujun8023/akgate:latest
+    image: ghcr.io/qiujun8023/akgate:latest
     container_name: akgate
     restart: unless-stopped
     ports:
